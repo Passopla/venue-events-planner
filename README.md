@@ -58,4 +58,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Supabase for backend services
 - TailwindCSS for styling
 - Vite for frontend tooling
-- Trae AI
